@@ -21,3 +21,25 @@ What is the return on bond?
 5 - 3.25/113 * 100% = 1.55% 
 
 Need to check again on how to check yield to maturity calculation.
+
+#### Credit Spreads
+
+- Bond Yield -> coupon + capital gain for an year/ price paid to buy * 100
+- Let's say Bond yield is 4.25%, it can expressed in market jargon as 425 basis points.
+Let's say ITALY 10 Year 700 b.p.s.
+
+GERMANY 10 Year 200 b.p.s 
+
+Spread is the gap between 700 bps and 200 bps so its `500 bps spread`
+
+Wider that spread, greater the perception of risk.
+Faster the spread widens, faster the risk is gathering momentum.
+
+- If investors sell Italian paper, it's going to to Push the paper down and yield up (nominal value is always same).
+- Investors buying german bonds then its going to push the paper up and yield down (nominal value is always same).
+
+- In a nutshell, spread is relative risk in bond market and as investor trouble is ahead if you see one of the two things happening.
+1. If spread is widening -> trouble
+2. Widening even faster -> even more trouble.
+
+Source -> [Money Week Credit Spread](https://www.youtube.com/watch?v=tkGepWJ5b3E&t=41s)
